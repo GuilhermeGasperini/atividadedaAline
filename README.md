@@ -71,14 +71,22 @@ else if - ele serve para testar uma condição antes de testar o comando;
 
 if ternário - essa é a segunda forma da estrutura if;
 SINTAXE:
-
+var nome;
+console.log( nome ? 'Olá ' + nome : 'Digite um nome' );
+// vai imprimir 'Digite um nome'
 
 operador && - ele consegue executar um comando de forma parecida com o if;
 SINTAXE:
-
+var valor = 650;
+if ( valor > 100 ) console.log(“Pode parcelar a compra sem juros”);
+// vai imprimir "Pode parcelar a compra sem juros"
 
 if - serve para especificar uma linha de código caso seja verdadeira.
 SINTAXE:
+if ( condicao )
+// se condição for verdadeira executa
+else
+// se condição for falsa executa
 
 SWITCHS
 Switch - server para avaliar uma instrução, comparando o valor com uma série case.
