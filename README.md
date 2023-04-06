@@ -91,6 +91,7 @@ else
 SWITCHS
 Switch - server para avaliar uma instrução, comparando o valor com uma série case.
 
+
 ESTRUTURAS DE DADOS
 Bolean - oolean representa uma entidade lógica e pode ter dois valores true ou false;
 SINTAXE: 
@@ -131,3 +132,9 @@ https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/swi
 estruturas de dados
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures
 https://dev.to/ananopaisdojavascript/estruturas-de-dados-com-js-3hbd
+estruturas condicionais
+https://www.devmedia.com.br/javascript-estrutura-condicional-if/40611
+https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/conditionals
+tipos de estruturas de repetição
+https://www.treinaweb.com.br/blog/estruturas-condicionais-e-estruturas-de-repeticao-em-javascript
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration
