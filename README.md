@@ -121,3 +121,13 @@ Carregamento de recursos XML - ele vai carregar os recursos do seu site com o re
 Atributos - Cada objeto View e ViewGroup aceita uma variedade própria de atributos XML;
 
 ID - O id serve para identificar um objeto especifico.
+
+REFERENCIAS
+android studios
+https://developer.android.com/guide/topics/ui/declaring-layout?hl=pt-br
+switchs
+https://www.devmedia.com.br/javascript-switch/39761
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/switch
+estruturas de dados
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures
+https://dev.to/ananopaisdojavascript/estruturas-de-dados-com-js-3hbd
