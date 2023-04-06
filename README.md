@@ -1,4 +1,5 @@
 # atividadedaAline
+Jeferson e Guilherme Gasperini. 2DS
 TIPOS DE ESTRUTURAS REPETIÇÃO
 
 for_statement - ele faz o laço seja repetido até ser falso;
@@ -90,7 +91,11 @@ else
 
 SWITCHS
 Switch - server para avaliar uma instrução, comparando o valor com uma série case.
-
+SINTAXE:
+switch (expressão) {
+  case valor1:
+    //Instruções executadas quando o resultado da expressão for igual á valor1
+    [break;]
 
 ESTRUTURAS DE DADOS
 Bolean - oolean representa uma entidade lógica e pode ter dois valores true ou false;
