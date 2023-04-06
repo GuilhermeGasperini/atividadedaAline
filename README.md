@@ -112,3 +112,12 @@ Númericos - Ele tem dois valores númericos integrados que são eles Number e B
 SINTAXE:
 Number, BigInt
 
+TIPOS DE ELEMENTOS VISUAIS DO ANDROID STUDIO
+
+Programação do XML - Usando o vocabulário XML do Android, é possível projetar rapidamente layouts de IU e os elementos de tela intrínsecos, do mesmo modo que se cria páginas Web em HTML - com uma série de elementos aninhados;
+
+Carregamento de recursos XML - ele vai carregar os recursos do seu site com o recurso com o nome view;
+
+Atributos - Cada objeto View e ViewGroup aceita uma variedade própria de atributos XML;
+
+ID - O id serve para identificar um objeto especifico.
