@@ -82,3 +82,25 @@ SINTAXE:
 
 SWITCHS
 Switch - server para avaliar uma instrução, comparando o valor com uma série case.
+
+ESTRUTURAS DE DADOS
+Bolean - oolean representa uma entidade lógica e pode ter dois valores true ou false;
+SINTAXE: 
+new Boolean([value])
+
+Null - O tipo Null tem exatamente um valor Null;
+SINTAXE: 
+Null
+
+Number - É um valor de formato binário de 64 bits com precisão dupla;
+SINTAXE:
+Number
+
+Undefined - Uma variável que não recebeu um valor tem o valor Underfined;
+SINTAXE: 
+undefined
+
+Númericos - Ele tem dois valores númericos integrados que são eles Number e BigInt, junto com o valor relacionado NaN.
+SINTAXE:
+Number, BigInt
+
